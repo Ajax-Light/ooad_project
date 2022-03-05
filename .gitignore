@@ -1,0 +1,19 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Maven
+log/
+target/
+
+# Compiled class Files
+*.class
+
+# Package Files
+*.jar
+*.war
+*.tar.gz
+*.zip
+*.rar
+
